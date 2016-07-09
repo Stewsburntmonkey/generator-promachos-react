@@ -10,6 +10,7 @@
     "name": "David Stewart",
     "email": "david.stewart@promachos.net"
   },
+  "repository": "Stewsburntmonkey/generator-promachos-react",
   "dependencies": {
     "yeoman-generator": "^0.23.4"
   },
