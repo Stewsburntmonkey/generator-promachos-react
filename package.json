@@ -17,6 +17,5 @@
   "files": [
     "generators"
   ],
-  "license": "BSD-2-Clause",
-  "private": true
+  "license": "BSD-2-Clause"
 }
