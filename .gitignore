@@ -1,0 +1,13 @@
+# Dependency Directories
+node_modules
+
+# Cache Directories
+.npm
+
+# Editors
+.idea
+
+# OS
+.DS_Store
+.DS_Store?
+._*

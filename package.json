@@ -1,0 +1,21 @@
+{
+  "name": "generator-promachos-react",
+  "version": "0.1.0",
+  "description": "Promachos's Yeoman generator for React",
+  "keywords": [
+    "yeoman-generator",
+    "react"
+  ],
+  "author": {
+    "name": "David Stewart",
+    "email": "david.stewart@promachos.net"
+  },
+  "dependencies": {
+    "yeoman-generator": "^0.23.4"
+  },
+  "files": [
+    "generators"
+  ],
+  "license": "BSD-2-Clause",
+  "private": true
+}
